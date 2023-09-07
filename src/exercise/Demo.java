@@ -6,7 +6,7 @@ public class Demo {
 		
 		System.out.println("Java");
 		System.out.println("Tomorrow");
-
+		System.out.println("Today");
 	}
 
 }
